@@ -1,6 +1,6 @@
 
 
-[Where Ideas Meet Innovation Let's Build Robots!-2.pdf](https://github.com/user-attachments/files/17561462/Where.Ideas.Meet.Innovation.Let.s.Build.Robots.-2.pdf)
+<img width="992" alt="Screenshot 1403-08-08 at 21 54 09" src="https://github.com/user-attachments/assets/b6c33694-0185-4419-bb85-64fbe0df8675">
 
 
 
