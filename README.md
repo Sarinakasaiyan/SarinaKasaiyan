@@ -1,9 +1,11 @@
-## Hi there 👋
+
+
+
 
 <!--
-**Sarinakasaiyan/sarinakasaiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a master's student in artificial intelligence.
 
-Here are some ideas to get you started:
+About me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
