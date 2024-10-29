@@ -15,6 +15,8 @@ I am a master's student in artificial intelligence.
    WordPress Support Specialist :
    
    Managing and optimizing websites using WordPress, including content updates, plugin installations, security enhancements, and speed optimization.
+
+   - a href=("https://www.linkedin.com/in/sarina-kasaiyan/")
    
    Web Designer : 
    
