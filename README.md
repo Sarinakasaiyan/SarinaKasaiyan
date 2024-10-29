@@ -16,8 +16,11 @@ I am a master's student in artificial intelligence.
    
    Managing and optimizing websites using WordPress, including content updates, plugin installations, security enhancements, and speed optimization.
 
-  https://ai-lab-tnb.com
-  
+  - https://ai-lab-tnb.com
+  - https://www.metadaru.com
+  - https://kiyanet.ir
+  - https://sangesarshop.ir
+    
    
    Web Designer : 
    
