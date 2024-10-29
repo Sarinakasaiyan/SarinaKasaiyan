@@ -1,5 +1,10 @@
 
 
+[Where Ideas Meet Innovation Let's Build Robots!-2.pdf](https://github.com/user-attachments/files/17561462/Where.Ideas.Meet.Innovation.Let.s.Build.Robots.-2.pdf)
+
+
+
+
  <h3>I am a master's student in artificial intelligence.</h3>
 
 <h2>About me</h2>
