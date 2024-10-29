@@ -16,7 +16,8 @@ I am a master's student in artificial intelligence.
    
    Managing and optimizing websites using WordPress, including content updates, plugin installations, security enhancements, and speed optimization.
 
-   -https://www.linkedin.com/in/sarina-kasaiyan/
+  
+   https://www.linkedin.com/in/sarinakasaiyan
    
    Web Designer : 
    
