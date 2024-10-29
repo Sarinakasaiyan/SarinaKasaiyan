@@ -33,9 +33,10 @@ I am a master's student in artificial intelligence.
    Digital Marketing Projects**: Utilizing data to analyze user behavior and optimize marketing strategies.
 
 ▪️ 📫 How to reach me:
- [Link to LinkedIn] https://www.linkedin.com/in/sarinakasaiyan
 
- [Your Email](sarinakasaiyan@gmail.com)
+  - https://www.linkedin.com/in/sarinakasaiyan
+
+  - sarinakasaiyan@gmail.com
 
 
 
