@@ -18,7 +18,7 @@ I am a master's student in artificial intelligence.
 
 ▪️ 📫 How to reach me:
  [Link to LinkedIn]([https://www.linkedin.com/in/sarinakasaiyan](https://www.linkedin.com/in/sarina-kasaiyan/))
- [Your Email](sarinakasaiyan.email@example.com)
+ [Your Email](sarinakasaiyan@gmail.com)
 
 
 
