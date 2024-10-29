@@ -16,8 +16,8 @@ I am a master's student in artificial intelligence.
    
    Managing and optimizing websites using WordPress, including content updates, plugin installations, security enhancements, and speed optimization.
 
+  https://ai-lab-tnb.com
   
-   https://www.linkedin.com/in/sarinakasaiyan
    
    Web Designer : 
    
@@ -33,7 +33,8 @@ I am a master's student in artificial intelligence.
    Digital Marketing Projects**: Utilizing data to analyze user behavior and optimize marketing strategies.
 
 ▪️ 📫 How to reach me:
- [Link to LinkedIn]([https://www.linkedin.com/in/sarinakasaiyan](https://www.linkedin.com/in/sarina-kasaiyan/))
+ [Link to LinkedIn] https://www.linkedin.com/in/sarinakasaiyan
+
  [Your Email](sarinakasaiyan@gmail.com)
 
 
