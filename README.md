@@ -4,7 +4,14 @@
 
 <h2>About me</h2>
 
-▪️ I am SARINA, a master's student in artificial intelligence with a focus on machine learning and deep learning. As the author of **"HOW TO BUILD A ROBOT,"** I teach how to          build line-following robots and strive to convey complex robotics concepts in a simple and understandable manner.
+▪️ I am SARINA, a master's student in artificial intelligence with a focus on machine learning and deep learning. As the author of "HOW TO BUILD A ROBOT," I teach how to          build line-following robots and strive to convey complex robotics concepts in a simple and understandable manner.
+
+
+![1654544017506](https://github.com/user-attachments/assets/cbc5986b-9d60-4f49-9327-01681acdab79)
+
+
+
+
  
 ▪️ Experience and Skills
 
