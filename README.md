@@ -1,6 +1,6 @@
 
 
-I am a master's student in artificial intelligence.
+ <h3>I am a master's student in artificial intelligence.</h3>
 
 <h2>About me</h2>
 
