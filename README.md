@@ -9,8 +9,6 @@
 
 ▪️ 📫 How to reach me:
 
-  - https://www.linkedin.com/in/sarinakasaiyan
-
   - sarinakasaiyan@gmail.com
     
 ## 🌐 Socials:
