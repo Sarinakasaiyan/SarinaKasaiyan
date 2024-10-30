@@ -6,6 +6,13 @@
 ▪️ I am SARINA, a master's student in artificial intelligence with a focus on machine learning and deep learning. As the author of "HOW TO BUILD A ROBOT," I teach how to          build line-following robots and strive to convey complex robotics concepts in a simple and understandable manner.<br> <br>▪️ Experience and Skills<br><br>   Robotics Instructor : <br>   <br>   Teaching fundamental and advanced robotics concepts to students and enthusiasts.<br>   <br>   WordPress Support Specialist :<br>   <br>   Managing and optimizing websites using WordPress, including content updates, plugin installations, security enhancements, and speed optimization.<br><br>  - https://ai-lab-tnb.com<br>  - https://www.metadaru.com<br>  - https://kiyanet.ir<br>  - https://sangesarshop.ir<br>    <br>   <br>   Web Designer : <br>   <br>   Designing and developing professional websites using HTML, CSS, and JavaScript.<br><br><br>   Data Scientist : <br>   <br>   Analyzing data to extract valuable insights and predict trends. Proficient in data analysis tools such as Python and R, along with machine learning techniques     for              predictive modeling.<br><br>▪️ Projects<br>   Line-Following Robot Development**: Creating robots capable of recognizing and following specified paths.<br>   Digital Marketing Projects**: Utilizing data to analyze user behavior and optimize marketing strategies.<br>
 
 
+
+▪️ 📫 How to reach me:
+
+  - https://www.linkedin.com/in/sarinakasaiyan
+
+  - sarinakasaiyan@gmail.com
+    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarinakasaiyan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sarinakasaiyan) 
 
@@ -32,9 +39,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-▪️ 📫 How to reach me:
-
-  - https://www.linkedin.com/in/sarinakasaiyan
-
-  - sarinakasaiyan@gmail.com
 
