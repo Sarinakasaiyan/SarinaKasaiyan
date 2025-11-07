@@ -1,5 +1,6 @@
 
-<img width="1011" alt="Screenshot 1403-08-08 at 21 57 34" src="https://github.com/user-attachments/assets/a081be9c-1948-407c-b13b-8deb73081fee">
+![image](https://github.com/user-attachments/assets/b22a750a-e979-409b-bab7-5d58eeb0a43c)
+
 
 
 # 💫 About Me:
