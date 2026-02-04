@@ -80,6 +80,7 @@ I have managed and optimized security/speed for the following platforms:
 - [Sangesar Shop](https://sangesarshop.ir)
 - [Keymode](https://keymode.com)
 - [atlantis](https://atlantiscoco.ir/)
+- [Maad Chlor](https://macazco.com/)
 
 
 ---
