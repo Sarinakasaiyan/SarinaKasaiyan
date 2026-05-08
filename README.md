@@ -3,17 +3,17 @@
 
 ---
 
-
-
 <div align="center">
 
-# Hi there, I'm Sarina! 👋
-### MSc. Robotics and Artificial Intelligence (AI)
+# 👋 Hi there, I'm Sarina Kasaiyan
+### 🧠 AI Researcher | BCI & Neuro-AI Specialist | Robotics Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarinakasaiyan)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sarinakasaiyan)
-[![Website](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sarinakasaiyan.github.io)
+[![Portfolio](https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.sarinakasaiyan.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarinakasaiyan@gmail.com)
+
+*Aspiring Ph.D. Candidate driven by solving real-world challenges in healthcare and non-invasive neural interfaces.*
 
 </div>
 
@@ -21,91 +21,86 @@
 
 ### 💫 About Me
 
-I am **SARINA**, an MSc. in Robotics and AI with a deep focus on **Machine Learning** and **Deep Learning**.
-As the author of **"HOW TO BUILD A ROBOT"**, I am passionate about teaching robotics fundamentals and making complex concepts accessible. I bridge the gap between hardware engineering and intelligent software solutions.
+I am an MSc. graduate in **Artificial Intelligence and Robotics** (GPA: 17.00/20.00), specializing in **Deep Learning, Brain-Computer Interfaces (BCI), and Explainable AI (XAI)**. My research bridges the gap between neurophysiology and artificial intelligence, with a specific focus on decoding imagined speech from EEG signals using advanced Transformer architectures. 
+
+Beyond research, I am the published author of a technical book on robotics and a passionate instructor dedicated to making complex engineering concepts accessible.
 
 ---
 
-### 🛠️ Experience & Expertise
+### 🔬 Research & Selected Projects
 
-| **Role** | **Description** |
-| :--- | :--- |
-| **🤖 Robotics Instructor** | Teaching fundamental and advanced robotics concepts, including line-following robots and hardware logic. |
-| **📊 Data Scientist** | Analyzing data to extract insights using **Python & R**. Specialized in predictive modeling and visualization. |
-| **💻 Web Developer** | Professional Front-end development (**HTML, CSS, JS**) and WordPress optimization (Security, Speed, SEO). |
+- 🧠 **Imagined Speech Decoding (M.Sc. Thesis - Grade: 20/20):** Developed a novel Spectro-Temporal Transformer architecture to decode imagined speech from EEG signals, utilizing XAI (SHAP) to ensure neurophysiological fidelity.
+- ⚕️ **Schizophrenia Detection from EEG:** Engineered a diagnosis pipeline using time-frequency EEG scalograms and EfficientNet, achieving **97% accuracy**.
+- 🧬 **Brain Tumor Segmentation:** Designed an Attention U-Net model in TensorFlow/Keras for high-precision MRI lesion localization.
+- 🤖 **Autonomous Line Follower Robot:** Designed and built the hardware/software pipeline for an autonomous robot (B.Sc. Project - Grade: 20/20), which later became the foundation of my published book.
 
 ---
 
-### 💻 Tech Stack
+### 📚 Publications
 
-**🧠 AI & Data Science**
+📖 **Book:** *Line Follower Robot: How to Build a Robot (2022)* 
+> A 150-page technical guide covering AVR microcontrollers, circuit design, and C programming.
+
+📄 **Preprint:** *Performance Comparison of T5 and Marian Machine Translation Models (2023)*
+> Evaluated model efficiency using METEOR and BLEU scores for Neural Machine Translation.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**AI, Machine Learning & Signal Processing**
 <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MNE-Python](https://img.shields.io/badge/MNE--Python-Signal_Processing-blue?style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**⚙️ Languages & Backend**
+**Robotics & Hardware**
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-Robotics-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=octave&logoColor=white)
 
-**🎨 Frontend & Design**
-<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Tools-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-
-**🔧 Tools**
+**Tools & Development**
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 
----
+<details>
+<summary><b>🌐 Additional Experience: Web Development & CMS (Click to Expand)</b></summary>
+<br>
+I also have a strong background in web development and WordPress optimization (Security, Speed, SEO). I have managed platforms including:
 
-### 🌐 Web Portfolio (WordPress Specialist)
-I have managed and optimized security/speed for the following platforms:
 - [AI Lab TNB](https://ai-lab-tnb.com)
 - [Metadaru](https://www.metadaru.com)
 - [Kiyanet](https://kiyanet.ir)
 - [Sangesar Shop](https://sangesarshop.ir)
 - [Keymode](https://keymode.com)
-- [atlantis](https://atlantiscoco.ir/)
+- [Atlantis](https://atlantiscoco.ir/)
 - [Maad Chlor](https://macazco.com/)
 
+*Tech:* HTML5, CSS3, JS, React Native, NextJS, PHP.
+</details>
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=3670A0&icon_color=3670A0)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=dark&hide_border=true)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarinakasaiyan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarinakasaiyan&limit=5&theme=panda&combine_all_yearly_contributions=true)
-
-<br>
-
+<!-- Profile Views -->
 [![](https://visitcount.itsvg.in/api?id=sarinakasaiyan&icon=9&color=13)](https://visitcount.itsvg.in)
 
 </div>
-
