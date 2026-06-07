@@ -1,119 +1,216 @@
+<div align="center">
 
-<canvas id="c3" style="width:100%;height:200px;display:block;border-radius:10px"></canvas>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-<script>
-(function(){
-const canvas=document.getElementById('c3');
-const W=canvas.offsetWidth||680,H=200;
-canvas.width=W*devicePixelRatio;canvas.height=H*devicePixelRatio;
-canvas.style.height=H+'px';
-const renderer=new THREE.WebGLRenderer({canvas,antialias:true});
-renderer.setPixelRatio(devicePixelRatio);
-renderer.setSize(W,H);
-renderer.setClearColor(0x020c08);
+<!--  HEADER BANNER  -->
+<img src="https://github.com/Sarinakasaiyan/Sarinakasaiyan/raw/main/assets/banner_header.svg" width="100%"/>
 
-const scene=new THREE.Scene();
-const camera=new THREE.PerspectiveCamera(55,W/H,0.1,100);
-camera.position.set(0,0,6);
+</div>
 
-scene.add(new THREE.AmbientLight(0x0a1a10,2));
-const pl1=new THREE.PointLight(0x14b8a6,5,14);
-pl1.position.set(-1,2,4);
-scene.add(pl1);
-const pl2=new THREE.PointLight(0x8b5cf6,3,12);
-pl2.position.set(4,1,3);
-scene.add(pl2);
-const pl3=new THREE.PointLight(0x1d9e75,2,8);
-pl3.position.set(0,-2,2);
-scene.add(pl3);
+<br>
 
-const layers=[[-4.5,-2,1.5],[0,-1,0],[4.5,-2,-1.5]];
-const layerNodes=[];
-layers.forEach((lp,li)=>{
-  const cnt=[4,5,4][li];
-  const lnodes=[];
-  for(let i=0;i<cnt;i++){
-    const y=(i-(cnt-1)/2)*1.1;
-    const geo=new THREE.SphereGeometry(0.12,16,16);
-    const col=[0x14b8a6,0x8b5cf6,0x1d9e75][li];
-    const ecol=[0x0f6e56,0x4c1d95,0x0e5c3a][li];
-    const mat=new THREE.MeshStandardMaterial({color:col,emissive:ecol,emissiveIntensity:0.8,metalness:0.4,roughness:0.3});
-    const mesh=new THREE.Mesh(geo,mat);
-    mesh.position.set(lp[0],y,lp[2]);
-    scene.add(mesh);
-    lnodes.push(mesh);
-  }
-  layerNodes.push(lnodes);
-});
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
 
-const edgeMat=new THREE.LineBasicMaterial({color:0x14b8a6,transparent:true,opacity:0.12});
-for(let l=0;l<layerNodes.length-1;l++){
-  layerNodes[l].forEach(a=>{
-    layerNodes[l+1].forEach(b=>{
-      const geo=new THREE.BufferGeometry().setFromPoints([a.position.clone(),b.position.clone()]);
-      scene.add(new THREE.Line(geo,edgeMat));
-    });
-  });
+```
+╔══════════════════════════════════════════╗
+║  SYSTEM PROFILE v3.0                     ║
+╠══════════════════════════════════════════╣
+║  NAME   → Sarina Kasaiyan                ║
+║  ROLE   → M.Sc. AI & Robotics            ║
+║  TARGET → Ph.D. Candidate                ║
+║  FOCUS  → Non-Invasive Neural Interfaces ║
+║  STATUS → [████████████░░] Researching   ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+<td width="40%" valign="top" align="right">
+
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/sarinakasaiyan)
+[![Scholar](https://img.shields.io/badge/─%20Scholar-0a0a1a?style=for-the-badge&logo=google-scholar&logoColor=7dd3fc)](#)
+[![Portfolio](https://img.shields.io/badge/─%20Portfolio-0a0a1a?style=for-the-badge&logo=safari&logoColor=5eead4)](https://sarinakasaiyan.github.io)
+[![Email](https://img.shields.io/badge/─%20Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:sarinakasaiyan@gmail.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `> DECODING NEURAL SIGNALS. BRIDGING MINDS AND MACHINES.`
+
+*Developing explainable deep-learning architectures that decode human cognitive states*
+*from non-invasive bio-signals — advancing the frontier of Brain-Computer Interfaces.*
+
+</div>
+
+---
+
+<img src="https://github.com/Sarinakasaiyan/Sarinakasaiyan/raw/main/assets/banner_research.svg" width="100%"/>
+
+## `01` &nbsp; RESEARCH ARCHITECTURE
+
+```python
+class SarinaKasaiyan(Researcher):
+
+    focus = [
+        "Brain-Computer Interfaces (BCI)",
+        "Spatio-Temporal EEG Transformers",
+        "Explainable AI (XAI) + SHAP",
+        "Medical Image Segmentation",
+        "Autonomous Robotics & RL",
+    ]
+
+    current_thesis = """
+        Imagined Speech Decoding from EEG Signals
+        using Spectro-Temporal Transformers
+        ↳ Grade: 20/20 ✓
+    """
+
+    equation = "X ∈ ℝ^(C×T) → latent_speech_representation"
+```
+
+---
+
+## `02` &nbsp; ACADEMIC RECORD
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+**🎓 M.Sc. — AI & Robotics**
+`Islamic Azad University` · `GPA: 17/20`
+
+Proposed a novel **Spectro-Temporal Transformer** capturing long-range EEG dependencies. Applied **SHAP** to validate neurophysiological fidelity.
+
+`PyTorch` `MNE-Python` `SciPy` `Kara One`
+
+</td>
+<td width="50%">
+
+**🎓 B.Sc. — Software Engineering**
+`Semnan University` · `GPA: 17/20`
+
+Designed and implemented a fully **Autonomous Line Follower Robot** — published as a comprehensive 150-page technical book.
+
+`C++` `AVR` `PCB Design` `Embedded Systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://github.com/Sarinakasaiyan/Sarinakasaiyan/raw/main/assets/banner_projects.svg" width="100%"/>
+
+## `03` &nbsp; SELECTED PROJECTS
+
+| &nbsp; | Project | What I Built | Stack |
+| :---: | :--- | :--- | :--- |
+| `▸` | **Schizophrenia Detection** | 1D EEG → 2D scalogram via `EfficientNet` · **97% accuracy** | `MNE` `PyTorch` `CWT` |
+| `▸` | **Brain Tumor Segmentation** | `Attention U-Net` for automated MRI lesion localization | `TensorFlow` `OpenCV` |
+| `▸` | **RL Autonomous Agents** | Q-Learning · SARSA · DQN in stochastic environments | `Python` `OpenAI Gym` |
+| `▸` | **AI Architecture Agent** | LLM agent for intelligent spatial design automation | `LangChain` `Spatial AI` |
+| `▸` | **NMT Evaluation** | Performance comparison T5 vs Marian MT | `HuggingFace` `NLP` |
+
+---
+
+## `04` &nbsp; TECHNICAL ARSENAL
+
+<div align="center">
+
+**— DEEP LEARNING & SIGNAL PROCESSING —**
+
+![Python](https://img.shields.io/badge/Python-0a0a1a?style=flat-square&logo=python&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a1a?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a1a?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![MNE-Python](https://img.shields.io/badge/MNE--Python-0a0a1a?style=flat-square&logoColor=0C55A5)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a1a?style=flat-square&logo=numpy&logoColor=7dd3fc)
+![SciPy](https://img.shields.io/badge/SciPy-0a0a1a?style=flat-square&logo=scipy&logoColor=5eead4)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a1a?style=flat-square&logo=pandas&logoColor=e879f9)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a1a?style=flat-square&logo=huggingface&logoColor=fbbf24)
+
+**— ROBOTICS & EMBEDDED —**
+
+![ROS](https://img.shields.io/badge/ROS-0a0a1a?style=flat-square&logo=ros&logoColor=5eead4)
+![C++](https://img.shields.io/badge/C++-0a0a1a?style=flat-square&logo=cplusplus&logoColor=7dd3fc)
+![Arduino](https://img.shields.io/badge/Arduino-0a0a1a?style=flat-square&logo=arduino&logoColor=00979D)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a1a?style=flat-square&logo=octave&logoColor=fca5a5)
+![Linux](https://img.shields.io/badge/Linux-0a0a1a?style=flat-square&logo=linux&logoColor=FCC624)
+
+**— ENGINEERING TOOLS —**
+
+![Git](https://img.shields.io/badge/Git-0a0a1a?style=flat-square&logo=git&logoColor=F05033)
+![LaTeX](https://img.shields.io/badge/LaTeX-0a0a1a?style=flat-square&logo=latex&logoColor=a78bfa)
+![WandB](https://img.shields.io/badge/W%26B-0a0a1a?style=flat-square&logo=weightsandbiases&logoColor=FFBE00)
+![Docker](https://img.shields.io/badge/Docker-0a0a1a?style=flat-square&logo=docker&logoColor=7dd3fc)
+
+</div>
+
+---
+
+<img src="https://github.com/Sarinakasaiyan/Sarinakasaiyan/raw/main/assets/banner_publications.svg" width="100%"/>
+
+## `05` &nbsp; PUBLICATIONS
+
+```bibtex
+@book{kasaiyan2022,
+  title  = {Line Follower Robot: How to Build a Robot},
+  author = {Kasaiyan, Sarina},
+  year   = {2022},
+  note   = {150-page guide: AVR, PCB design, C embedded programming}
 }
 
-const pulseMat=new THREE.MeshStandardMaterial({color:0xf59e0b,emissive:0x854f0b,emissiveIntensity:1.5,metalness:0.2,roughness:0.1,transparent:true,opacity:0.9});
-const pulseGeo=new THREE.SphereGeometry(0.06,12,12);
-
-const particles=[];
-for(let i=0;i<6;i++){
-  const m=new THREE.Mesh(pulseGeo,pulseMat.clone());
-  scene.add(m);
-  const li=Math.floor(Math.random()*2);
-  const si=Math.floor(Math.random()*layerNodes[li].length);
-  const ei=Math.floor(Math.random()*layerNodes[li+1].length);
-  particles.push({mesh:m,start:layerNodes[li][si].position.clone(),end:layerNodes[li+1][ei].position.clone(),t:Math.random(),speed:0.004+Math.random()*0.006});
+@preprint{kasaiyan2023,
+  title  = {Performance Comparison of T5 and Marian MT Models},
+  author = {Kasaiyan, Sarina},
+  year   = {2023},
+  note   = {NMT evaluation · METEOR and BLEU metrics}
 }
+```
 
-const gridGeo=new THREE.PlaneGeometry(20,10,30,15);
-scene.add(new THREE.Mesh(gridGeo,new THREE.MeshStandardMaterial({color:0x041a0c,wireframe:true,transparent:true,opacity:0.2,emissive:0x0f6e56,emissiveIntensity:0.3})));
-scene.getObjectByProperty('type','Mesh').rotation={x:-0.4,y:0,z:0};
+---
 
-let t=0;
-function animate(){
-  requestAnimationFrame(animate);
-  t+=0.01;
-  particles.forEach(p=>{
-    p.t+=p.speed;
-    if(p.t>1)p.t=0;
-    p.mesh.position.lerpVectors(p.start,p.end,p.t);
-    p.mesh.material.opacity=Math.sin(p.t*Math.PI)*0.9+0.1;
-  });
-  layerNodes.forEach((layer,li)=>{
-    layer.forEach((n,ni)=>{
-      n.position.y+=Math.sin(t+li*1.2+ni*0.7)*0.001;
-      n.scale.setScalar(1+Math.sin(t*2+li+ni)*0.05);
-    });
-  });
-  pl1.position.x=Math.sin(t*0.5)*3-1;
-  pl2.position.y=Math.cos(t*0.4)*2;
-  renderer.render(scene,camera);
-}
-animate();
+## `06` &nbsp; ACTIVITY
 
-const o=document.createElementNS('http://www.w3.org/2000/svg','svg');
-o.setAttribute('viewBox','0 0 680 200');
-o.setAttribute('width','100%');
-o.setAttribute('height','200');
-o.style.cssText='position:absolute;top:0;left:0;pointer-events:none';
-canvas.parentElement.style.position='relative';
-o.innerHTML=`
-<rect x="0" y="0" width="5" height="200" fill="#14b8a6" opacity="0.8"/>
-<text font-family="monospace" font-size="10" fill="#5eead4" letter-spacing="6" x="20" y="22">SECTION 03</text>
-<text font-family="monospace" font-size="20" font-weight="600" fill="#f5f3ff" x="20" y="50">Selected Research Projects</text>
-<text font-family="monospace" font-size="10" fill="#9ca3af" x="20" y="68">BCI &#183; Medical Imaging &#183; Autonomous Agents &#183; NMT</text>
-<rect x="20" y="85" width="118" height="20" rx="3" fill="#0f4a3a" opacity="0.8"/>
-<text font-family="monospace" font-size="9" fill="#5eead4" x="28" y="99">Schizophrenia 97%</text>
-<rect x="148" y="85" width="108" height="20" rx="3" fill="#1a0a40" opacity="0.8"/>
-<text font-family="monospace" font-size="9" fill="#a78bfa" x="156" y="99">Brain Tumor Seg</text>
-<rect x="266" y="85" width="90" height="20" rx="3" fill="#0a2e18" opacity="0.8"/>
-<text font-family="monospace" font-size="9" fill="#4ade80" x="274" y="99">RL Agents DQN</text>
-<text font-family="monospace" font-size="10" fill="#6b7280" x="20" y="185">PyTorch &#183; TensorFlow &#183; MNE-Python &#183; OpenAI Gym</text>
-`;
-canvas.parentElement.appendChild(o);
-})();
-</script>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=7dd3fc&text_color=9ca3af" height="160"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=7dd3fc&sideLabels=9ca3af" height="160"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinakasaiyan&bg_color=0a0a1a&color=a78bfa&line=7c3aed&point=5eead4&area=true&area_color=3b0764&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<details>
+<summary><b>⚙️ Infrastructure & Full-Stack Deployment</b></summary>
+<br>
+
+> Architecting and deploying production-grade AI systems. Secured and optimized AI Lab TNB, Metadaru, and Kiyanet platforms. Full-stack integration of deep learning backends with interactive frontends.
+
+`Node.js` `REST APIs` `Server Hardening` `CI/CD` `Nginx` `PostgreSQL`
+
+</details>
+
+---
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "The true sign of intelligence is not knowledge
+                  but imagination."
+                                    — Albert Einstein
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=sarinakasaiyan&label=Views&color=6&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
