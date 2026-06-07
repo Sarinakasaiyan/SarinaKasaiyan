@@ -1,6 +1,5 @@
 <img width="2064" height="512" alt="c8d2dbae-15f7-4c06-8a42-e37a094ab061" src="https://github.com/user-attachments/assets/cfc8b5c8-afa1-483f-9020-5adbfa915ab3" />
 
-
 ---
 
 <div align="center">
@@ -9,7 +8,7 @@
 **M.Sc. Artificial Intelligence & Robotics | Aspiring Ph.D. Candidate**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarinakasaiyan)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#) <!-- لینک گوگل اسکولار خود را جایگزین # کنید -->
+[![Google Scholar](https://img.shields.io/badge/Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#) 
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-111111?style=flat-square&logo=About.me)](https://www.sarinakasaiyan.github.io)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:sarinakasaiyan@gmail.com)
 
@@ -65,8 +64,7 @@ Specifically, my recent work involves mapping high-dimensional spatio-temporal E
 
 ## 🛠️ Technical Arsenal
 
-**Deep Learning & Signal Processing**
-<br>
+### 🧠 Deep Learning & Signal Processing
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 ![MNE-Python](https://img.shields.io/badge/MNE--Python-Signal_Processing-0C55A5?style=flat-square)
@@ -74,15 +72,13 @@ Specifically, my recent work involves mapping high-dimensional spatio-temporal E
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
 
-**Robotics & Embedded Systems**
-<br>
+### 🤖 Robotics & Embedded Systems
 ![ROS](https://img.shields.io/badge/ROS-Robotics-22314E?style=flat-square&logo=ros&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=flat-square&logo=octave&logoColor=white)
 
-**Engineering Tools**
-<br>
+### ⚙️ Engineering Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
@@ -90,12 +86,27 @@ Specifically, my recent work involves mapping high-dimensional spatio-temporal E
 
 ---
 
+## 💻 Complementary Expertise
+
+<details>
+<summary>🌐 <b>Web Development & Freelance Architecture (Click to expand)</b></summary>
+<br>
+
+> While my primary focus is academic AI research, I possess a strong background in full-stack web development and server architecture. This elite engineering skill set allows me to seamlessly deploy complex deep learning models into production and manage robust IT infrastructures.
+
+* **Infrastructure Optimization:** Secured and optimized high-traffic platforms including *AI Lab TNB*, *Metadaru*, and *Kiyanet*.
+* **Full-Stack Integration:** Experienced in bridging the gap between heavy backend AI pipelines and interactive, intuitive web interfaces.
+</details>
+
+---
+
 <div align="center">
   
-### 📈 Open Source & Coding Activity
+### 📊 Open Source & Coding Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=777777" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=transparent&hide_border=true&title_color=3670A0&text_color=777777&sideNums=3670A0&sideLabels=777777&ring=3670A0&fire=3670A0&currStreakLabel=3670A0" width="48%" />
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=777777" width="100%" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=transparent&hide_border=true&title_color=3670A0&text_color=777777&sideNums=3670A0&sideLabels=777777&ring=3670A0&fire=3670A0&currStreakLabel=3670A0" width="100%" /> |
 
 <br>
 <i>"The true sign of intelligence is not knowledge but imagination." — Albert Einstein</i>
@@ -104,14 +115,3 @@ Specifically, my recent work involves mapping high-dimensional spatio-temporal E
 [![](https://visitcount.itsvg.in/api?id=sarinakasaiyan&icon=9&color=0C55A5)](https://visitcount.itsvg.in)
 
 </div>
-
-<!-- 
-Hidden Details for full profile completion (CMS & Web). 
-Professors won't mind it being collapsed, and it keeps the main view purely academic.
--->
-<details>
-<summary><b>💻 Web Development & Freelance Architecture</b></summary>
-While my primary focus is AI research, I possess a strong background in full-stack web development and server architecture, demonstrating my capability to deploy AI models and manage complex IT infrastructures. I have optimized and secured platforms such as AI Lab TNB, Metadaru, Kiyanet, and more.
-</details>
-
-
