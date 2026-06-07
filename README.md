@@ -1,38 +1,68 @@
 <img width="2064" height="512" alt="c8d2dbae-15f7-4c06-8a42-e37a094ab061" src="https://github.com/user-attachments/assets/cfc8b5c8-afa1-483f-9020-5adbfa915ab3" />
 
 ---
+<!-- 
+  طراحی اختصاصی برای Sarina Kasaiyan
+  Neuro-AI Researcher | BCI Specialist
+  نسخه 2.0 - فروردین ۱۴۰۴
+-->
+
 <div align="center">
 
-<!--  HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:3b0764,100:0f172a&height=200&section=header&text=Sarina%20Kasaiyan&fontSize=52&fontColor=e9d5ff&fontAlignY=38&desc=Neuro-AI%20%E2%80%A2%20BCI%20%E2%80%A2%20Deep%20Learning&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<!-- بنر متحرک با گرادیان و موج عصبی (SVG) -->
+<a href="https://github.com/sarinakasaiyan">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Sarina%20Kasaiyan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=M.Sc.%20AI%20%26%20Robotics%20%7C%20BCI%20Researcher&descSize=20&descAlignY=60">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,15&height=200&section=header&text=Sarina%20Kasaiyan&fontSize=60&fontColor=1a1a2e&animation=fadeIn&fontAlignY=40&desc=M.Sc.%20AI%20%26%20Robotics%20%7C%20BCI%20Researcher&descSize=20&descAlignY=60">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sarina%20Kasaiyan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40">
+  </picture>
+</a>
+
+<!-- نشان‌های حرفه‌ای با هورور و لینک -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarinakasaiyan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarinakasaiyan"/></a>
+  <a href="mailto:sarinakasaiyan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.sarinakasaiyan.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
+  <a href="https://github.com/sarinakasaiyan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<!-- خط تزئینی با دو طرف -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
 <br>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="62%" valign="top">
+<!-- معرفی تخصصی با نقل قول و تگ خط دوم -->
+<div align="center">
+  <i>⚡ Bridging neurophysiology & deep learning to decode the human mind ⚡</i>
+  <br><br>
+  <b>🔬 Research Focus:</b> Brain-Computer Interfaces • Explainable AI (XAI) • Spatio-Temporal Transformers • Medical Image Segmentation
+</div>
 
-```
-╔══════════════════════════════════════════╗
-║  SYSTEM PROFILE v2.0                     ║
-╠══════════════════════════════════════════╣
-║  NAME   → Sarina Kasaiyan                ║
-║  ROLE   → M.Sc. AI & Robotics            ║
-║  TARGET → Ph.D. Candidate                ║
-║  FOCUS  → Non-Invasive Neural Interfaces ║
-║  STATUS → [████████████░░] Researching   ║
-╚══════════════════════════════════════════╝
-```
+<br>
+
+<!-- دو کارت اصلی: درباره و فلسفه -->
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+  
+### 🧠 فلسفه پژوهشی
+من به **Neuro-AI** و **رابط‌های مغز-رایانه (BCI)** اختصاص دارم. معماری‌های یادگیری عمیق قابل تفسیر را برای رمزگشایی حالات شناختی پیچیده از بیوسیگنال‌های غیرتهاجمی توسعه می‌دهم.
+
+در کار اخیرم، نگاشت سیگنال‌های EEG با ابعاد بالا $X \in \mathbb{R}^{C \times T}$ به بازنمایی‌های نهفته معنادار برای رمزگشایی گفتار تصوری، با استفاده از مکانیسم‌های Attention پیشرفته و Transformerهای طیفی-زمانی انجام شده است.
 
 </td>
-<td width="38%" valign="top" align="right">
+<td width="50%">
 
-[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/sarinakasaiyan)
-[![Scholar](https://img.shields.io/badge/─%20Scholar-0a0a1a?style=for-the-badge&logo=google-scholar&logoColor=7dd3fc)](#)
-[![Portfolio](https://img.shields.io/badge/─%20Portfolio-0a0a1a?style=for-the-badge&logo=safari&logoColor=5eead4)](https://sarinakasaiyan.github.io)
-[![Email](https://img.shields.io/badge/─%20Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:sarinakasaiyan@gmail.com)
+### 🏆 برجسته‌های آکادمیک
+🎓 **کارشناسی ارشد هوش مصنوعی و رباتیک** – دانشگاه آزاد اسلامی  
+📌 *معدل: 17.00/20.00* | **پایان‌نامه:** رمزگشایی گفتار تصوری از سیگنال‌های EEG با یادگیری عمیق (نمره ۲۰)  
+🔬 **روش:** Transformer طیفی-زمانی + SHAP برای اعتبارسنجی عصب‌فیزیولوژیک
+
+🎓 **کارشناسی مهندسی نرم‌افزار** – دانشگاه سمنان  
+📌 *پروژه پایانی:* طراحی و اجرای ربات دنبال‌کننده خط خودران (نمره ۲۰) – منتشر شده به صورت کتاب فنی
 
 </td>
 </tr>
@@ -40,183 +70,114 @@
 
 <br>
 
----
+<!-- پروژه‌های تحقیقاتی با کارت‌های حرفه‌ای -->
+## 🧬 پروژه‌های برتر تحقیقاتی
 
-<div align="center">
-
-### `> DECODING NEURAL SIGNALS. BRIDGING MINDS AND MACHINES.`
-
-*Developing explainable deep-learning architectures that decode human cognitive states*
-*from non-invasive bio-signals — advancing the frontier of Brain-Computer Interfaces.*
-
-</div>
-
----
-
-## `01` &nbsp; RESEARCH ARCHITECTURE
-
-```python
-class SarinaKasaiyan(Researcher):
-
-    focus = [
-        "Brain-Computer Interfaces (BCI)",
-        "Spatio-Temporal EEG Transformers",
-        "Explainable AI (XAI) + SHAP",
-        "Medical Image Segmentation",
-        "Autonomous Robotics & RL",
-    ]
-
-    current_thesis = """
-        Imagined Speech Decoding from EEG Signals
-        using Spectro-Temporal Transformers
-        ↳ Grade: 20/20 ✓
-    """
-
-    equation = "X ∈ ℝ^(C×T) → latent_speech_representation"
-```
-
----
-
-## `02` &nbsp; ACADEMIC RECORD
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%">
-
-**🎓 M.Sc. — AI & Robotics**
-`Islamic Azad University` &nbsp; · &nbsp; `GPA: 17/20`
-
-Proposed a novel **Spectro-Temporal Transformer** capturing long-range EEG dependencies. Applied **SHAP** to validate neurophysiological fidelity and eliminate shortcut learning.
-
-`PyTorch` `MNE-Python` `SciPy` `Kara One`
-
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🧠-Schizophrenia_Detection-6A0DAD?style=for-the-badge&labelColor=4A0E4E"/>
+  <br>
+  <b>تشخیص اسکیزوفرنی</b><br>
+  <sub>تبدیل EEG 1D به اسکالوگرام 2D زمان-فرکانس + EfficientNet → دقت ۹۷٪</sub>
+  <br><br>
+  <code>MNE-Python</code> <code>PyTorch</code> <code>CWT</code>
 </td>
-<td width="50%">
-
-**🎓 B.Sc. — Software Engineering**
-`Semnan University` &nbsp; · &nbsp; `GPA: 17/20`
-
-Designed and implemented a fully **Autonomous Line Follower Robot** — final project published as a comprehensive 150-page technical book.
-
-`C++` `AVR` `PCB Design` `Embedded Systems`
-
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🧬-Brain_Tumor_Segmentation-0A6E4A?style=for-the-badge&labelColor=0A4C3A"/>
+  <br>
+  <b>بخش‌بندی تومور مغزی</b><br>
+  <sub>معماری Attention U-Net برای محلی‌سازی ضایعات MRI</sub>
+  <br><br>
+  <code>TensorFlow/Keras</code> <code>OpenCV</code>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/🤖-RL_Autonomous_Agents-D32F2F?style=for-the-badge&labelColor=8B0000"/>
+  <br>
+  <b>عوامل خودمختار با RL</b><br>
+  <sub>پیاده‌سازی Q-Learning، SARSA و DQN در محیط‌های تصادفی</sub>
+  <br><br>
+  <code>Python</code> <code>OpenAI Gym</code>
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## `03` &nbsp; SELECTED PROJECTS
-
-| &nbsp; | Project | What I Built | Stack |
-| :---: | :--- | :--- | :--- |
-| `▸` | **Schizophrenia Detection** | 1D EEG → 2D scalogram pipeline via `EfficientNet` · **97% clinical accuracy** | `MNE` `PyTorch` `CWT` |
-| `▸` | **Brain Tumor Segmentation** | `Attention U-Net` for automated MRI lesion localization | `TensorFlow` `OpenCV` |
-| `▸` | **RL Autonomous Agents** | Q-Learning · SARSA · DQN in stochastic environments | `Python` `OpenAI Gym` |
-| `▸` | **AI Architecture Agent** | LLM agent for intelligent spatial design automation | `LangChain` `Spatial AI` |
-| `▸` | **NMT Evaluation** | Performance comparison of T5 vs Marian MT · BLEU/METEOR | `HuggingFace` `NLP` |
-
----
-
-## `04` &nbsp; TECHNICAL ARSENAL
+## 📚 انتشارات و تألیفات
 
 <div align="center">
-
-**— DEEP LEARNING & SIGNAL PROCESSING —**
-
-![Python](https://img.shields.io/badge/Python-0a0a1a?style=flat-square&logo=python&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a1a?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a1a?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![MNE-Python](https://img.shields.io/badge/MNE--Python-0a0a1a?style=flat-square&logoColor=0C55A5)
-![NumPy](https://img.shields.io/badge/NumPy-0a0a1a?style=flat-square&logo=numpy&logoColor=7dd3fc)
-![SciPy](https://img.shields.io/badge/SciPy-0a0a1a?style=flat-square&logo=scipy&logoColor=5eead4)
-![Pandas](https://img.shields.io/badge/Pandas-0a0a1a?style=flat-square&logo=pandas&logoColor=e879f9)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a1a?style=flat-square&logo=huggingface&logoColor=fbbf24)
-
-**— ROBOTICS & EMBEDDED —**
-
-![ROS](https://img.shields.io/badge/ROS-0a0a1a?style=flat-square&logo=ros&logoColor=5eead4)
-![C++](https://img.shields.io/badge/C++-0a0a1a?style=flat-square&logo=cplusplus&logoColor=7dd3fc)
-![Arduino](https://img.shields.io/badge/Arduino-0a0a1a?style=flat-square&logo=arduino&logoColor=00979D)
-![MATLAB](https://img.shields.io/badge/MATLAB-0a0a1a?style=flat-square&logo=octave&logoColor=fca5a5)
-![Linux](https://img.shields.io/badge/Linux-0a0a1a?style=flat-square&logo=linux&logoColor=FCC624)
-
-**— ENGINEERING TOOLS —**
-
-![Git](https://img.shields.io/badge/Git-0a0a1a?style=flat-square&logo=git&logoColor=F05033)
-![LaTeX](https://img.shields.io/badge/LaTeX-0a0a1a?style=flat-square&logo=latex&logoColor=a78bfa)
-![WandB](https://img.shields.io/badge/W%26B-0a0a1a?style=flat-square&logo=weightsandbiases&logoColor=FFBE00)
-![Docker](https://img.shields.io/badge/Docker-0a0a1a?style=flat-square&logo=docker&logoColor=7dd3fc)
+  
+| | |
+| :---: | :---: |
+| <img src="https://img.shields.io/badge/📖-کتاب_Line_Follower_Robot-FF8C00?style=for-the-badge"/> | **Line Follower Robot: How to Build a Robot** (2022)<br>*۱۵۰ صفحه تخصصی شامل میکروکنترلر AVR، طراحی PCB، برنامه‌نویسی C* |
+| <img src="https://img.shields.io/badge/📄-پیش‌نویس_ترجمه_ماشینی-1E90FF?style=for-the-badge"/> | **Performance Comparison of T5 and Marian MT Models** (2023)<br>*ارزیابی تجربی مدل‌های ترجمه عصبی با معیارهای METEOR و BLEU* |
 
 </div>
 
----
+<br>
 
-## `05` &nbsp; PUBLICATIONS
+<!-- مهارت‌ها با نمایش دایره‌ای SVG (سازگار با هر تم) -->
+## 🛠️ مهارت‌های تخصصی
 
-```bibtex
-@book{kasaiyan2022,
-  title     = {Line Follower Robot: How to Build a Robot},
-  author    = {Kasaiyan, Sarina},
-  year      = {2022},
-  note      = {150-page technical guide: AVR microcontrollers,
-               PCB design, C-based embedded programming}
-}
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <b>🧠 یادگیری عمیق & سیگنال</b><br><br>
+  <code>PyTorch</code> <code>TensorFlow</code><br>
+  <code>MNE-Python</code> <code>SciPy</code><br>
+  <code>NumPy</code> <code>Pandas</code>
+</td>
+<td align="center" width="33%">
+  <b>🤖 رباتیک & سیستم‌های نهفته</b><br><br>
+  <code>ROS</code> <code>C++</code><br>
+  <code>Arduino</code> <code>MATLAB</code><br>
+  <code>PCB Design</code> <code>AVR</code>
+</td>
+<td align="center" width="33%">
+  <b>⚙️ مهندسی & ابزارها</b><br><br>
+  <code>Linux</code> <code>Git/GitHub</code><br>
+  <code>LaTeX</code> <code>WandB</code><br>
+  <code>Docker</code> <code>FastAPI</code>
+</td>
+</tr>
+</table>
 
-@preprint{kasaiyan2023,
-  title     = {Performance Comparison of T5 and Marian MT Models},
-  author    = {Kasaiyan, Sarina},
-  year      = {2023},
-  note      = {Empirical NMT evaluation · METEOR and BLEU metrics}
-}
-```
-
----
-
-## `06` &nbsp; ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=7dd3fc&text_color=9ca3af&ring_color=7c3aed" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=7dd3fc&sideLabels=9ca3af&dates=6b7280" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinakasaiyan&bg_color=0a0a1a&color=a78bfa&line=7c3aed&point=5eead4&area=true&area_color=3b0764&hide_border=true" width="100%"/>
-
-</div>
-
----
+<br>
 
 <details>
-<summary><b>⚙️ &nbsp; Complementary: Infrastructure & Full-Stack Deployment</b></summary>
+<summary><b>🌐 توسعه وب و معماری فریم‌لنس (کلیک کنید)</b></summary>
 <br>
 
-> Beyond research, I architect and deploy production-grade systems that bridge AI pipelines with real-world infrastructure. This includes securing high-traffic AI platforms (AI Lab TNB, Metadaru, Kiyanet), full-stack integration of deep learning backends with interactive frontends, and robust server optimization at scale.
+> علاوه بر تمرکز اصلی در تحقیقات AI، پیشینه قوی در توسعه فول‌استک و معماری سرور دارم. این مهارت مهندسی سطح بالا به من امکان می‌دهد مدل‌های یادگیری عمیق را به تولید (production) برسانم و زیرساخت‌های IT را مدیریت کنم.
 
-`Node.js` `REST APIs` `Server Hardening` `CI/CD` `Nginx` `PostgreSQL`
+- بهینه‌سازی و امنیت پلتفرم‌های پرترافیک مانند *AI Lab TNB*، *Metadaru* و *Kiyanet*
+- ادغام فول‌استک بین پایپ‌لاین‌های AI و رابط‌های کاربری تعاملی
 
 </details>
 
----
+<br>
 
+<!-- آمار گیت‌هاب با طراحی مینیمال و انیمیشن شمارنده -->
 <div align="center">
+  
+## 📊 فعالیت در گیت‌هاب
+
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=transparent&hide_border=true&title_color=6A0DAD&icon_color=6A0DAD&text_color=777777&border_radius=10&bg_color=0D1117" width="100%"/> | <img src="https://streak-stats.demolab.com?user=sarinakasaiyan&theme=transparent&hide_border=true&border_radius=10&background=0D1117&stroke=6A0DAD&ring=6A0DAD&fire=6A0DAD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6A0DAD&sideLabels=AAAAAA&dates=777777" width="100%"/> |
 
 <br>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  "The true sign of intelligence is not knowledge
-                  but imagination."
-                                       — Albert Einstein
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<!-- کوکتل جمله معروف و بازدید -->
+<i>“The true sign of intelligence is not knowledge but imagination.” — Albert Einstein</i>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=sarinakasaiyan&label=Profile%20Views&color=6&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<br><br>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=sarinakasaiyan&label=بازدیدهای+پروفایل&color=6A0DAD&style=flat-square" alt="بازدید"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b0764,100:0a0a1a&height=100&section=footer&reversal=false" width="100%"/>
+<!-- موج انتهایی -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=12"/>
+
 
 </div>
