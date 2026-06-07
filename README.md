@@ -1,5 +1,8 @@
 <svg width="100%" viewBox="0 0 700 230" role="img" style="" xmlns="http://www.w3.org/2000/svg">
+<img width="300" height="74" alt="banner_projects" src="https://github.com/user-attachments/assets/e128aafc-df0a-4b45-adba-7280fa7f227b" />![Uploading banner_research.svg…]()
+<img width="300" height="99" alt="banner_header (1)" src="https://github.com/user-attachments/assets/5a774cd7-b07c-4e6b-9bff-9bffbcc64acc" />
 
+<img width="300" height="99" alt="banner_header" src="https://github.com/user-attachments/assets/074a6fd4-9e7b-405e-a7aa-0902292db829" />
 
 <!--  HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:3b0764,100:0f172a&height=200&section=header&text=Sarina%20Kasaiyan&fontSize=52&fontColor=e9d5ff&fontAlignY=38&desc=Neuro-AI%20%E2%80%A2%20BCI%20%E2%80%A2%20Deep%20Learning&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
