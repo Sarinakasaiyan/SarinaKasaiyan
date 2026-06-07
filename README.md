@@ -1,117 +1,222 @@
 <img width="2064" height="512" alt="c8d2dbae-15f7-4c06-8a42-e37a094ab061" src="https://github.com/user-attachments/assets/cfc8b5c8-afa1-483f-9020-5adbfa915ab3" />
 
 ---
+<div align="center">
+
+<!--  HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:3b0764,100:0f172a&height=200&section=header&text=Sarina%20Kasaiyan&fontSize=52&fontColor=e9d5ff&fontAlignY=38&desc=Neuro-AI%20%E2%80%A2%20BCI%20%E2%80%A2%20Deep%20Learning&descSize=16&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+</div>
+
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="62%" valign="top">
+
+```
+╔══════════════════════════════════════════╗
+║  SYSTEM PROFILE v2.0                     ║
+╠══════════════════════════════════════════╣
+║  NAME   → Sarina Kasaiyan                ║
+║  ROLE   → M.Sc. AI & Robotics            ║
+║  TARGET → Ph.D. Candidate                ║
+║  FOCUS  → Non-Invasive Neural Interfaces ║
+║  STATUS → [████████████░░] Researching   ║
+╚══════════════════════════════════════════╝
+```
+
+</td>
+<td width="38%" valign="top" align="right">
+
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/sarinakasaiyan)
+[![Scholar](https://img.shields.io/badge/─%20Scholar-0a0a1a?style=for-the-badge&logo=google-scholar&logoColor=7dd3fc)](#)
+[![Portfolio](https://img.shields.io/badge/─%20Portfolio-0a0a1a?style=for-the-badge&logo=safari&logoColor=5eead4)](https://sarinakasaiyan.github.io)
+[![Email](https://img.shields.io/badge/─%20Email-0a0a1a?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:sarinakasaiyan@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
 
 <div align="center">
 
-# 🧠 Sarina Kasaiyan
-**M.Sc. Artificial Intelligence & Robotics | Aspiring Ph.D. Candidate**
+### `> DECODING NEURAL SIGNALS. BRIDGING MINDS AND MACHINES.`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sarinakasaiyan)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](#) 
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-111111?style=flat-square&logo=About.me)](https://www.sarinakasaiyan.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:sarinakasaiyan@gmail.com)
-
-*Bridging Neurophysiology and Deep Learning to advance Non-Invasive Neural Interfaces.*
+*Developing explainable deep-learning architectures that decode human cognitive states*
+*from non-invasive bio-signals — advancing the frontier of Brain-Computer Interfaces.*
 
 </div>
 
 ---
 
-## 🔬 Research Focus & Philosophy
+## `01` &nbsp; RESEARCH ARCHITECTURE
 
-My research is dedicated to **Neuro-AI** and **Brain-Computer Interfaces (BCI)**. I focus on developing explainable deep learning architectures to decode complex human cognitive states from non-invasive bio-signals. 
+```python
+class SarinaKasaiyan(Researcher):
 
-Specifically, my recent work involves mapping high-dimensional spatio-temporal EEG signals $X \in \mathbb{R}^{C \times T}$ into meaningful latent representations for imagined speech decoding, utilizing advanced Attention mechanisms and Spectro-Temporal Transformers.
+    focus = [
+        "Brain-Computer Interfaces (BCI)",
+        "Spatio-Temporal EEG Transformers",
+        "Explainable AI (XAI) + SHAP",
+        "Medical Image Segmentation",
+        "Autonomous Robotics & RL",
+    ]
 
-> **Key Areas:** Brain-Computer Interfaces (BCI) • Explainable AI (XAI) • Spatio-Temporal Transformers • Medical Image Segmentation • Autonomous Robotics
+    current_thesis = """
+        Imagined Speech Decoding from EEG Signals
+        using Spectro-Temporal Transformers
+        ↳ Grade: 20/20 ✓
+    """
 
----
-
-## 🏆 Academic Highlights
-
-### 🎓 M.Sc. in Artificial Intelligence & Robotics
-**Islamic Azad University** | *GPA: 17.00/20.00*
-* **Thesis:** Imagined Speech Decoding from EEG Signals using Deep Learning (**Grade: 20/20**)
-* **Methodology:** Proposed a novel Spectro-Temporal Transformer to capture long-range dependencies in EEG. Applied SHapley Additive exPlanations (SHAP) to validate neurophysiological fidelity and mitigate shortcut learning.
-* **Stack:** `PyTorch`, `MNE-Python`, `SciPy`, `Kara One Dataset`
-
-### 🎓 B.Sc. in Software Engineering
-**Semnan University** | *GPA: 17.00/20.00*
-* **Final Project:** Design and Implementation of an Autonomous Line Follower Robot (**Grade: 20/20**)
-* **Outcome:** Published as a comprehensive technical book.
-
----
-
-## 🧬 Selected Research Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Schizophrenia Detection** | Developed a diagnostic pipeline mapping 1D EEG to 2D time-frequency scalograms, processed via `EfficientNet`. Achieved **97% accuracy** in clinical validation. | `MNE-Python`, `PyTorch`, `CWT` |
-| **Brain Tumor Segmentation** | Designed a highly precise `Attention U-Net` architecture for automated MRI lesion localization, focusing on critical spatial features. | `TensorFlow/Keras`, `OpenCV` |
-| **RL Autonomous Agents** | Implemented and evaluated Q-Learning, SARSA, and Deep Q-Networks (DQN) for dynamic control in stochastic environments. | `Python`, `OpenAI Gym` |
+    equation = "X ∈ ℝ^(C×T) → latent_speech_representation"
+```
 
 ---
 
-## 📚 Publications
+## `02` &nbsp; ACADEMIC RECORD
 
-* 📖 **Book: Line Follower Robot: How to Build a Robot** (2022) 
-  * *A 150-page technical foundation covering AVR microcontrollers, PCB design, and C-based embedded programming.*
-* 📄 **Preprint: Performance Comparison of T5 and Marian MT Models** (2023)
-  * *Empirical evaluation of Neural Machine Translation models utilizing METEOR and BLEU metrics.*
+<table width="100%">
+<tr>
+<td width="50%">
 
----
+**🎓 M.Sc. — AI & Robotics**
+`Islamic Azad University` &nbsp; · &nbsp; `GPA: 17/20`
 
-## 🛠️ Technical Arsenal
+Proposed a novel **Spectro-Temporal Transformer** capturing long-range EEG dependencies. Applied **SHAP** to validate neurophysiological fidelity and eliminate shortcut learning.
 
-### 🧠 Deep Learning & Signal Processing
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![MNE-Python](https://img.shields.io/badge/MNE--Python-Signal_Processing-0C55A5?style=flat-square)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+`PyTorch` `MNE-Python` `SciPy` `Kara One`
 
-### 🤖 Robotics & Embedded Systems
-![ROS](https://img.shields.io/badge/ROS-Robotics-22314E?style=flat-square&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=flat-square&logo=octave&logoColor=white)
+</td>
+<td width="50%">
 
-### ⚙️ Engineering Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=WeightsAndBiases&logoColor=white)
+**🎓 B.Sc. — Software Engineering**
+`Semnan University` &nbsp; · &nbsp; `GPA: 17/20`
+
+Designed and implemented a fully **Autonomous Line Follower Robot** — final project published as a comprehensive 150-page technical book.
+
+`C++` `AVR` `PCB Design` `Embedded Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Complementary Expertise
+## `03` &nbsp; SELECTED PROJECTS
+
+| &nbsp; | Project | What I Built | Stack |
+| :---: | :--- | :--- | :--- |
+| `▸` | **Schizophrenia Detection** | 1D EEG → 2D scalogram pipeline via `EfficientNet` · **97% clinical accuracy** | `MNE` `PyTorch` `CWT` |
+| `▸` | **Brain Tumor Segmentation** | `Attention U-Net` for automated MRI lesion localization | `TensorFlow` `OpenCV` |
+| `▸` | **RL Autonomous Agents** | Q-Learning · SARSA · DQN in stochastic environments | `Python` `OpenAI Gym` |
+| `▸` | **AI Architecture Agent** | LLM agent for intelligent spatial design automation | `LangChain` `Spatial AI` |
+| `▸` | **NMT Evaluation** | Performance comparison of T5 vs Marian MT · BLEU/METEOR | `HuggingFace` `NLP` |
+
+---
+
+## `04` &nbsp; TECHNICAL ARSENAL
+
+<div align="center">
+
+**— DEEP LEARNING & SIGNAL PROCESSING —**
+
+![Python](https://img.shields.io/badge/Python-0a0a1a?style=flat-square&logo=python&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a1a?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a1a?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![MNE-Python](https://img.shields.io/badge/MNE--Python-0a0a1a?style=flat-square&logoColor=0C55A5)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a1a?style=flat-square&logo=numpy&logoColor=7dd3fc)
+![SciPy](https://img.shields.io/badge/SciPy-0a0a1a?style=flat-square&logo=scipy&logoColor=5eead4)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a1a?style=flat-square&logo=pandas&logoColor=e879f9)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a1a?style=flat-square&logo=huggingface&logoColor=fbbf24)
+
+**— ROBOTICS & EMBEDDED —**
+
+![ROS](https://img.shields.io/badge/ROS-0a0a1a?style=flat-square&logo=ros&logoColor=5eead4)
+![C++](https://img.shields.io/badge/C++-0a0a1a?style=flat-square&logo=cplusplus&logoColor=7dd3fc)
+![Arduino](https://img.shields.io/badge/Arduino-0a0a1a?style=flat-square&logo=arduino&logoColor=00979D)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a1a?style=flat-square&logo=octave&logoColor=fca5a5)
+![Linux](https://img.shields.io/badge/Linux-0a0a1a?style=flat-square&logo=linux&logoColor=FCC624)
+
+**— ENGINEERING TOOLS —**
+
+![Git](https://img.shields.io/badge/Git-0a0a1a?style=flat-square&logo=git&logoColor=F05033)
+![LaTeX](https://img.shields.io/badge/LaTeX-0a0a1a?style=flat-square&logo=latex&logoColor=a78bfa)
+![WandB](https://img.shields.io/badge/W%26B-0a0a1a?style=flat-square&logo=weightsandbiases&logoColor=FFBE00)
+![Docker](https://img.shields.io/badge/Docker-0a0a1a?style=flat-square&logo=docker&logoColor=7dd3fc)
+
+</div>
+
+---
+
+## `05` &nbsp; PUBLICATIONS
+
+```bibtex
+@book{kasaiyan2022,
+  title     = {Line Follower Robot: How to Build a Robot},
+  author    = {Kasaiyan, Sarina},
+  year      = {2022},
+  note      = {150-page technical guide: AVR microcontrollers,
+               PCB design, C-based embedded programming}
+}
+
+@preprint{kasaiyan2023,
+  title     = {Performance Comparison of T5 and Marian MT Models},
+  author    = {Kasaiyan, Sarina},
+  year      = {2023},
+  note      = {Empirical NMT evaluation · METEOR and BLEU metrics}
+}
+```
+
+---
+
+## `06` &nbsp; ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=7dd3fc&text_color=9ca3af&ring_color=7c3aed" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=midnight-purple&hide_border=true&background=0a0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=7dd3fc&sideLabels=9ca3af&dates=6b7280" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarinakasaiyan&bg_color=0a0a1a&color=a78bfa&line=7c3aed&point=5eead4&area=true&area_color=3b0764&hide_border=true" width="100%"/>
+
+</div>
+
+---
 
 <details>
-<summary>🌐 <b>Web Development & Freelance Architecture (Click to expand)</b></summary>
+<summary><b>⚙️ &nbsp; Complementary: Infrastructure & Full-Stack Deployment</b></summary>
 <br>
 
-> While my primary focus is academic AI research, I possess a strong background in full-stack web development and server architecture. This elite engineering skill set allows me to seamlessly deploy complex deep learning models into production and manage robust IT infrastructures.
+> Beyond research, I architect and deploy production-grade systems that bridge AI pipelines with real-world infrastructure. This includes securing high-traffic AI platforms (AI Lab TNB, Metadaru, Kiyanet), full-stack integration of deep learning backends with interactive frontends, and robust server optimization at scale.
 
-* **Infrastructure Optimization:** Secured and optimized high-traffic platforms including *AI Lab TNB*, *Metadaru*, and *Kiyanet*.
-* **Full-Stack Integration:** Experienced in bridging the gap between heavy backend AI pipelines and interactive, intuitive web interfaces.
+`Node.js` `REST APIs` `Server Hardening` `CI/CD` `Nginx` `PostgreSQL`
+
 </details>
 
 ---
 
 <div align="center">
-  
-### 📊 Open Source & Coding Activity
-
-| | |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=sarinakasaiyan&show_icons=true&theme=transparent&hide_border=true&title_color=3670A0&icon_color=3670A0&text_color=777777" width="100%" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarinakasaiyan&theme=transparent&hide_border=true&title_color=3670A0&text_color=777777&sideNums=3670A0&sideLabels=777777&ring=3670A0&fire=3670A0&currStreakLabel=3670A0" width="100%" /> |
 
 <br>
-<i>"The true sign of intelligence is not knowledge but imagination." — Albert Einstein</i>
-<br><br>
 
-[![](https://visitcount.itsvg.in/api?id=sarinakasaiyan&icon=9&color=0C55A5)](https://visitcount.itsvg.in)
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  "The true sign of intelligence is not knowledge
+                  but imagination."
+                                       — Albert Einstein
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=sarinakasaiyan&label=Profile%20Views&color=6&icon=9&pretty=true)](https://visitcount.itsvg.in)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b0764,100:0a0a1a&height=100&section=footer&reversal=false" width="100%"/>
 
 </div>
